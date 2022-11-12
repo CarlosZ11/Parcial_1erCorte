@@ -1,0 +1,30 @@
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Datos.dll
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Entidades.dll
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Logica.dll
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Datos.pdb
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\bin\Debug\Logica.pdb
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\carlo\Desktop\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Presentacion.exe
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Presentacion.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Datos.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Entidades.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Logica.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Datos.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Entidades.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\bin\Debug\Logica.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.exe
+D:\Ingeniería de Sistemas\Programación III 2022\Parcial_1_Corte\Presentacion\obj\Debug\Presentacion.pdb
